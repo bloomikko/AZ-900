@@ -1,11 +1,11 @@
 # Notes and definitions
-**AzCopy**
+**AzCopy**  
 command-line utility to be used for copying blobs or files to or from your storage account
 
-**Azure Active Directory**
+**Azure Active Directory**  
 cloud-based identity management solution: contains for example features of single sign-on (SSO), multi-factor authentication (MFA) and conditional access
 
-**Azure Active Directory Domain Services**
+**Azure Active Directory Domain Services**  
 service that provides managed domain services
 
 **Azure Advanced Threat Protection (ATP)**
