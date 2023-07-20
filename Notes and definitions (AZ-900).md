@@ -1,4 +1,4 @@
-# Notes and definitions
+# Notes and definitions / Microsoft Azure Fundamentals (AZ-900)
 **AzCopy**  
 command-line utility to be used for copying blobs or files to or from your storage account
 
