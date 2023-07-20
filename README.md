@@ -3,7 +3,7 @@ This repository contains my personal "cheat sheet" for AZ-900 definitions. The e
 
 I <b>HIGHLY RECOMMEND</b> checking out the extra resources below, <b>especially the Datawolf's PDF</b>. Microsoft's practice exam does not cover fully the real exam, the questions are much easier in the practice one. Datawolf's questions many times reflect and are 1:1 the real exam questions.
 
-Please note that the AZ-900 certification can and most likely will alter in the future - these materials most likely will become obsolete over time. I still hope these notes offer some assistance - good luck with the exam!
+Please note that the AZ-900 certification exam syllabus can and most likely will alter in the future - these materials most likely will become obsolete over time. I still hope these notes offer some assistance - good luck with the exam!
 
 ## External resources
 ### Learning resources
@@ -16,6 +16,6 @@ Please note that the AZ-900 certification can and most likely will alter in the 
 
 ### Question dumps
 - [Datawolf's question dumps (check the PDF)](https://datawolfs.com/az-900-exam-questions-dumps-answer-free-pdf-download/)
-- [IT Exams' questions](https://www.itexams.com/exam/AZ-900)
 - [Exam Topics' questions](https://www.examtopics.com/exams/microsoft/az-900/view/)
+- [IT Exams' questions](https://www.itexams.com/exam/AZ-900)
 - [Passnexam's questions](https://www.passnexam.com/microsoft/az-900)
