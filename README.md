@@ -1,4 +1,4 @@
-# Microsoft AZ-900 (Microsoft Azure Fundamentals) notes
+# Microsoft Azure Fundamentals (AZ-900) notes
 This repository contains my personal "cheat sheet" for AZ-900 definitions. The exam heavily relies on knowing different Azure services and definitions, so I made my own "quick glance" file for studying.
 
 I <b>HIGHLY RECOMMEND</b> checking out the extra resources below, <b>especially the Datawolf's PDF</b>. Microsoft's practice exam does not cover fully the real exam, the questions are much easier in the practice one. Datawolf's questions many times reflect and are 1:1 the real exam questions.
